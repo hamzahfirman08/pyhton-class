@@ -1,12 +1,9 @@
 """
-    File    : rhymes-oo.py
-    Author  : Hamzah Firman
     Purpose : The purpose of this program is to find all the words which rhyme with
     some given input word from the user by matching its stressed vowel
     (the primary stress) and phoneme with other words in a file.
-    Course  : CSC 120 / section 1A / Spring 2019
     
-    """
+ """
 class Word:
     """
         CLASS: An instance of this class represents a word
