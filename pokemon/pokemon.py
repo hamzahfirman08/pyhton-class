@@ -1,12 +1,3 @@
-"""
-File    : pokemon.py
-Author  : Hamzah Firman
-Purpose : This program reads a Pokemon data from a file and arranges it
-          according to its Pokemon type.Then, repeatedly reads in queries
-          from the user and prints out solutions to those queries. 
-Course  : CSC 120 / Spring 2019 / section 1A
-
-"""
 
 """
 Function       : This function executes other functions within this function. 
